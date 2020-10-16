@@ -3,3 +3,6 @@ Pods/**
 SwiftLocalhost.xcworkspace/xcuserdata/*.xcuserdatad
 SwiftLocalhost.xcodeproj/xcuserdata/**
 SwiftLocalhost.xcodeproj/project.xcworkspace/xcuserdata/*.xcuserdatad
+.build/
+.swiftpm/
+Package.resolved
